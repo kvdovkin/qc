@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SWbdKj4+1K6quBEnnPnJY09Fvs2KP0vQzsewB72xOt0BplMlhVEcKzu/PjaoRK8Ap0CYeEEKx3aJsw6up/a0pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Public\\Labs\\qc\\BrokenLinks\\BrokenLinks\\BrokenLinks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Кирилл\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
+  "logs": []
+}

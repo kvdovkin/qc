@@ -1,0 +1,15 @@
+C:\Users\Public\Labs\qc\BrokenLinks\BrokenLinks\bin\Debug\netcoreapp3.1\BrokenLinks.exe
+C:\Users\Public\Labs\qc\BrokenLinks\BrokenLinks\bin\Debug\netcoreapp3.1\BrokenLinks.deps.json
+C:\Users\Public\Labs\qc\BrokenLinks\BrokenLinks\bin\Debug\netcoreapp3.1\BrokenLinks.runtimeconfig.json
+C:\Users\Public\Labs\qc\BrokenLinks\BrokenLinks\bin\Debug\netcoreapp3.1\BrokenLinks.runtimeconfig.dev.json
+C:\Users\Public\Labs\qc\BrokenLinks\BrokenLinks\bin\Debug\netcoreapp3.1\BrokenLinks.dll
+C:\Users\Public\Labs\qc\BrokenLinks\BrokenLinks\bin\Debug\netcoreapp3.1\BrokenLinks.pdb
+C:\Users\Public\Labs\qc\BrokenLinks\BrokenLinks\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Public\Labs\qc\BrokenLinks\BrokenLinks\obj\Debug\netcoreapp3.1\BrokenLinks.csprojAssemblyReference.cache
+C:\Users\Public\Labs\qc\BrokenLinks\BrokenLinks\obj\Debug\netcoreapp3.1\BrokenLinks.AssemblyInfoInputs.cache
+C:\Users\Public\Labs\qc\BrokenLinks\BrokenLinks\obj\Debug\netcoreapp3.1\BrokenLinks.AssemblyInfo.cs
+C:\Users\Public\Labs\qc\BrokenLinks\BrokenLinks\obj\Debug\netcoreapp3.1\BrokenLinks.csproj.CoreCompileInputs.cache
+C:\Users\Public\Labs\qc\BrokenLinks\BrokenLinks\obj\Debug\netcoreapp3.1\BrokenLinks.csproj.CopyComplete
+C:\Users\Public\Labs\qc\BrokenLinks\BrokenLinks\obj\Debug\netcoreapp3.1\BrokenLinks.dll
+C:\Users\Public\Labs\qc\BrokenLinks\BrokenLinks\obj\Debug\netcoreapp3.1\BrokenLinks.pdb
+C:\Users\Public\Labs\qc\BrokenLinks\BrokenLinks\obj\Debug\netcoreapp3.1\BrokenLinks.genruntimeconfig.cache

@@ -6,12 +6,6 @@ Triangle is regular.
 Triangle is regular.
 0,3 0,4 0,5
 Triangle is regular.
-7 7 7
-Triangle is equilateral.
-3,33 3,33 3,33
-Triangle is equilateral.
-1,7976931348623157E+308 1,7976931348623157E+308 1,7976931348623157E+308
-Triangle is equilateral.
 2 3 3
 Triangle is isosceles.
 3 3 2
@@ -24,6 +18,12 @@ Triangle is isosceles.
 Triangle is isosceles.
 36,89 20 36,89
 Triangle is isosceles.
+7 7 7
+Triangle is equilateral.
+3,33 3,33 3,33
+Triangle is equilateral.
+1,7976931348623157E+308 1,7976931348623157E+308 1,7976931348623157E+308
+Triangle is equilateral.
 8 2 3
 Triangle cannot be build.
 0,008 0,002 0,003
