@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eSpuT6hqBP9QulAIzJTC6vxu9kIh1ReE1WOULnpNvezjHMo//lkHhw1FU1VnSU+wK4UlmScz93EQKI9z73ybKA==",
+  "dgSpecHash": "0d7p3pdWcYU3o0SXjQrVrAg0th5PMUwtJPTyUFKlLlNNWW3czP86a8vQJT2ZGaMhV6ZdARvKcb7tBhZzFW9wuA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Public\\Labs\\qc\\PasswordStrength\\PasswordStrengthTests\\PasswordStrengthTests.csproj",
   "expectedPackageFiles": [
