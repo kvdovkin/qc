@@ -20,10 +20,7 @@ namespace PasswordStrengthTests
         [TestCase(72, "123QwErTy")]
         [TestCase(63, "123456789")]
 
-        public void CorrectStrength_CorrectPassword_GetPasswordStrength(int expectedPasswordStrength, string password)
-        {
-            Assert.AreEqual(expectedPasswordStrength, Password.GetPasswordStrength(password));
-        }
+
         
         [TestCase(115, "DnotherDbCdEaD221")]
         [TestCase(114, "123456789QWERTY")]

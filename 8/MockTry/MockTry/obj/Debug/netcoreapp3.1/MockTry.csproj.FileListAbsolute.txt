@@ -1,0 +1,13 @@
+C:\Users\Public\Labs\qc\8\MockTry\MockTry\bin\Debug\netcoreapp3.1\MockTry.exe
+C:\Users\Public\Labs\qc\8\MockTry\MockTry\bin\Debug\netcoreapp3.1\MockTry.deps.json
+C:\Users\Public\Labs\qc\8\MockTry\MockTry\bin\Debug\netcoreapp3.1\MockTry.runtimeconfig.json
+C:\Users\Public\Labs\qc\8\MockTry\MockTry\bin\Debug\netcoreapp3.1\MockTry.runtimeconfig.dev.json
+C:\Users\Public\Labs\qc\8\MockTry\MockTry\bin\Debug\netcoreapp3.1\MockTry.dll
+C:\Users\Public\Labs\qc\8\MockTry\MockTry\bin\Debug\netcoreapp3.1\MockTry.pdb
+C:\Users\Public\Labs\qc\8\MockTry\MockTry\obj\Debug\netcoreapp3.1\MockTry.csprojAssemblyReference.cache
+C:\Users\Public\Labs\qc\8\MockTry\MockTry\obj\Debug\netcoreapp3.1\MockTry.AssemblyInfoInputs.cache
+C:\Users\Public\Labs\qc\8\MockTry\MockTry\obj\Debug\netcoreapp3.1\MockTry.AssemblyInfo.cs
+C:\Users\Public\Labs\qc\8\MockTry\MockTry\obj\Debug\netcoreapp3.1\MockTry.csproj.CoreCompileInputs.cache
+C:\Users\Public\Labs\qc\8\MockTry\MockTry\obj\Debug\netcoreapp3.1\MockTry.dll
+C:\Users\Public\Labs\qc\8\MockTry\MockTry\obj\Debug\netcoreapp3.1\MockTry.pdb
+C:\Users\Public\Labs\qc\8\MockTry\MockTry\obj\Debug\netcoreapp3.1\MockTry.genruntimeconfig.cache
